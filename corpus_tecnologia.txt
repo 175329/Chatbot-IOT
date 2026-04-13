@@ -1,0 +1,124 @@
+[virus]
+Un virus informático es un programa malicioso que se replica insertándose en otros archivos o programas del sistema.
+Los virus informáticos pueden robar datos, dañar archivos, ralentizar el sistema o tomar control del equipo infectado.
+Los tipos más comunes de virus son: troyanos, gusanos, ransomware, spyware y adware.
+Un troyano se disfraza de software legítimo para engañar al usuario y obtener acceso al sistema sin su consentimiento.
+El ransomware cifra los archivos del usuario y exige un pago para recuperar el acceso, siendo uno de los ataques más costosos.
+Los antivirus detectan y eliminan virus mediante firmas digitales, heurística y análisis de comportamiento en tiempo real.
+Un gusano informático se propaga automáticamente por redes sin necesidad de intervención humana ni archivo huésped.
+El spyware recopila información del usuario de forma oculta y la envía a terceros sin consentimiento del propietario.
+El adware muestra publicidad no deseada y puede redirigir el navegador a sitios maliciosos sin permiso del usuario.
+Un rootkit oculta su presencia en el sistema operativo para mantener acceso privilegiado de forma persistente.
+El phishing es una técnica que usa correos o sitios falsos para robar credenciales y datos personales del usuario.
+Los exploits aprovechan vulnerabilidades conocidas en software desactualizado para ejecutar código malicioso en el sistema.
+La ingeniería social manipula psicológicamente a las personas para que revelen información confidencial o instalen malware.
+Los botnets son redes de computadoras infectadas controladas remotamente para lanzar ataques coordinados a gran escala.
+Un keylogger registra todas las pulsaciones del teclado para capturar contraseñas y datos sensibles del usuario.
+
+[ciberseguridad]
+La ciberseguridad es la práctica de proteger sistemas, redes y programas de ataques digitales y accesos no autorizados.
+Los ataques de phishing engañan a los usuarios para que revelen información confidencial como contraseñas o datos bancarios.
+Un firewall es un sistema de seguridad que monitorea y controla el tráfico de red entrante y saliente según reglas definidas.
+La autenticación de dos factores añade una capa extra de seguridad al requerir dos formas distintas de verificación de identidad.
+El cifrado convierte datos en un formato ilegible para protegerlos de accesos no autorizados durante su transmisión o almacenamiento.
+Los ataques DDoS saturan un servidor con tráfico masivo para dejarlo fuera de servicio e inaccesible para usuarios legítimos.
+Una VPN crea un túnel cifrado para proteger la privacidad y los datos del usuario al navegar en redes públicas o inseguras.
+El pentesting o prueba de penetración simula ataques reales para identificar vulnerabilidades antes de que actores maliciosos las exploten.
+Los certificados SSL y TLS garantizan que la comunicación entre el navegador y el servidor sea segura, autenticada y cifrada.
+El principio de mínimo privilegio limita el acceso de usuarios y sistemas solo a los recursos estrictamente necesarios para su función.
+La gestión de parches consiste en aplicar actualizaciones de seguridad para corregir vulnerabilidades conocidas en el software.
+El análisis forense digital investiga incidentes de seguridad para determinar el origen, alcance y método del ataque.
+Los sistemas SIEM recopilan y analizan registros de seguridad en tiempo real para detectar amenazas y anomalías en la red.
+El modelo Zero Trust asume que ningún usuario o dispositivo es confiable por defecto, incluso dentro de la red corporativa.
+La seguridad en capas combina múltiples controles de seguridad para reducir el riesgo de que un solo punto falle.
+
+[inteligencia artificial]
+La inteligencia artificial es la simulación de procesos de inteligencia humana por parte de sistemas computacionales programados.
+El aprendizaje automático permite a las máquinas aprender de datos sin ser programadas explícitamente para cada tarea específica.
+Las redes neuronales artificiales imitan la estructura del cerebro humano para reconocer patrones complejos en grandes volúmenes de datos.
+El deep learning usa redes neuronales profundas con múltiples capas ocultas para tareas como reconocimiento de imágenes y voz.
+Los modelos de lenguaje como GPT procesan y generan texto coherente usando arquitecturas transformer entrenadas con grandes corpus.
+El procesamiento de lenguaje natural permite a las máquinas entender, interpretar y generar lenguaje humano de forma automática.
+Los algoritmos de IA se entrenan con grandes volúmenes de datos etiquetados para mejorar su precisión y generalización con el tiempo.
+La IA generativa puede crear imágenes, textos, música y código funcional a partir de instrucciones en lenguaje natural.
+El machine learning supervisado aprende de ejemplos etiquetados mientras el no supervisado encuentra patrones sin etiquetas previas.
+Los chatbots modernos usan IA y modelos de lenguaje para simular conversaciones humanas y responder preguntas complejas.
+El aprendizaje por refuerzo entrena agentes para tomar decisiones óptimas mediante recompensas y penalizaciones en un entorno simulado.
+La visión por computadora permite a las máquinas interpretar y analizar imágenes y videos para reconocer objetos y escenas.
+Los modelos de IA pueden presentar sesgos cuando son entrenados con datos no representativos o históricos sesgados.
+El uso ético de la inteligencia artificial es un debate activo entre investigadores, empresas y legisladores de todo el mundo.
+La IA está transformando industrias como salud, educación, finanzas, manufactura y transporte con soluciones automatizadas.
+
+[iot]
+El Internet de las Cosas conecta dispositivos físicos a internet para recopilar e intercambiar datos de forma automática y continua.
+Los sensores IoT miden variables del entorno como temperatura, humedad, movimiento o presión y envían los datos a la nube.
+Las ciudades inteligentes usan IoT para gestionar tráfico, iluminación pública, residuos y servicios de forma eficiente y sostenible.
+Los dispositivos IoT en el hogar incluyen termostatos, cámaras, cerraduras, refrigeradores y asistentes de voz inteligentes.
+Los protocolos IoT más usados son MQTT, CoAP, Zigbee y Z-Wave para la comunicación eficiente entre dispositivos conectados.
+La seguridad en IoT es crítica porque los dispositivos conectados mal configurados pueden ser vectores de ataque hacia redes enteras.
+La industria 4.0 integra IoT con automatización, robótica y análisis de datos para optimizar procesos de producción industrial.
+Los wearables como relojes inteligentes y monitores de salud son ejemplos de IoT aplicados al cuidado personal y bienestar.
+Edge computing en IoT procesa datos cerca del dispositivo origen en lugar de enviarlos a la nube, reduciendo latencia significativamente.
+El IoT industrial usa sensores y actuadores para monitorear maquinaria, predecir fallas y optimizar el mantenimiento preventivo.
+Los dispositivos IoT generan enormes volúmenes de datos que requieren plataformas de big data para su almacenamiento y análisis.
+La interoperabilidad entre dispositivos IoT de distintos fabricantes sigue siendo uno de los principales desafíos del ecosistema.
+Los gateways IoT actúan como puentes entre los dispositivos de campo y la infraestructura cloud o de red corporativa.
+El protocolo MQTT es ligero y eficiente para dispositivos con recursos limitados que necesitan comunicación en tiempo real.
+
+[redes]
+Una red informática es un conjunto de dispositivos interconectados que comparten recursos, servicios e información entre sí.
+El protocolo TCP/IP es la base de la comunicación en internet, dividiendo datos en paquetes para su transmisión y reensamblaje.
+Las redes LAN conectan dispositivos en un área local como una oficina, mientras las WAN abarcan grandes distancias geográficas.
+El modelo OSI define 7 capas de comunicación: física, enlace de datos, red, transporte, sesión, presentación y aplicación.
+Un router dirige el tráfico entre redes diferentes, mientras un switch conecta dispositivos dentro de la misma red local.
+Las redes WiFi usan los estándares 802.11 para comunicación inalámbrica, con versiones como WiFi 6 para mayor velocidad y eficiencia.
+Una subred divide una red grande en segmentos más pequeños para mejorar el rendimiento, la seguridad y la gestión del tráfico.
+El DNS traduce nombres de dominio legibles como google.com en direcciones IP numéricas que los routers pueden entender y usar.
+Las redes 5G ofrecen velocidades hasta 100 veces mayores que 4G con latencia ultra baja para aplicaciones críticas en tiempo real.
+VoIP transmite llamadas de voz a través de internet en lugar de redes telefónicas tradicionales, reduciendo costos significativamente.
+El protocolo HTTPS cifra la comunicación web usando TLS para proteger datos sensibles entre el cliente y el servidor.
+La virtualización de redes con SDN separa el plano de control del plano de datos para gestionar redes de forma programable.
+Los switches gestionables permiten configurar VLANs para segmentar el tráfico y mejorar la seguridad en redes corporativas.
+La calidad de servicio QoS prioriza ciertos tipos de tráfico como voz o video para garantizar una experiencia de usuario óptima.
+
+[computacion en la nube]
+La computación en la nube ofrece servicios de cómputo, almacenamiento y redes a través de internet bajo demanda y pago por uso.
+Los tres modelos de servicio cloud son IaaS que ofrece infraestructura, PaaS que ofrece plataforma y SaaS que ofrece software listo.
+AWS, Google Cloud y Microsoft Azure son los principales proveedores de servicios en la nube con presencia global en el mercado.
+La nube pública comparte recursos entre múltiples clientes, mientras la nube privada es exclusiva para una sola organización.
+Los contenedores Docker permiten empaquetar aplicaciones con todas sus dependencias para ejecutarlas en cualquier entorno cloud.
+Kubernetes orquesta y gestiona contenedores a gran escala, automatizando el despliegue, escalado y operaciones de las aplicaciones.
+El serverless computing permite ejecutar código sin gestionar servidores, pagando únicamente por el tiempo real de ejecución.
+La nube híbrida combina infraestructura local on-premise con servicios cloud para obtener mayor flexibilidad y control operativo.
+Los CDN distribuyen contenido desde servidores geográficamente cercanos al usuario para reducir latencia y mejorar la velocidad de carga.
+La elasticidad cloud permite escalar recursos automáticamente hacia arriba o hacia abajo según la demanda en tiempo real.
+La migración a la nube requiere planificación de seguridad, cumplimiento normativo y gestión del cambio organizacional.
+Los servicios de bases de datos en la nube como RDS o Firestore eliminan la necesidad de administrar servidores de base de datos.
+El modelo de responsabilidad compartida en la nube divide la seguridad entre el proveedor y el cliente según el servicio usado.
+
+[computacion cuantica]
+La computación cuántica usa qubits en lugar de bits clásicos, aprovechando superposición y entrelazamiento para procesar información.
+Un qubit puede estar en estado 0, 1 o ambos simultáneamente gracias al principio de superposición de la mecánica cuántica.
+Los ordenadores cuánticos pueden resolver ciertos problemas exponencialmente más rápido que los ordenadores clásicos actuales.
+El entrelazamiento cuántico permite que dos qubits estén correlacionados instantáneamente sin importar la distancia física entre ellos.
+IBM, Google y D-Wave lideran el desarrollo de computadoras cuánticas comerciales y de investigación a nivel mundial.
+La computación cuántica amenaza los sistemas de cifrado actuales al poder factorizar números grandes en tiempo polinomial.
+El algoritmo de Shor podría romper la criptografía RSA usando una computadora cuántica suficientemente potente y estable.
+La corrección de errores cuánticos es uno de los mayores desafíos para construir computadoras cuánticas confiables y escalables.
+La interferencia cuántica permite amplificar las rutas de cálculo correctas y cancelar las incorrectas durante el procesamiento.
+La criptografía post-cuántica desarrolla nuevos algoritmos resistentes a ataques de computadoras cuánticas para proteger datos futuros.
+Los algoritmos cuánticos como Grover aceleran la búsqueda en bases de datos no estructuradas con ventaja cuadrática sobre los clásicos.
+
+[programacion]
+Python es uno de los lenguajes más populares por su sintaxis clara, legible y su amplio ecosistema de bibliotecas especializadas.
+Los algoritmos son conjuntos de instrucciones paso a paso para resolver un problema de forma eficiente y reproducible.
+La programación orientada a objetos organiza el código en clases y objetos que encapsulan datos y comportamiento relacionado.
+Git es un sistema de control de versiones distribuido que permite rastrear cambios en el código y colaborar en equipo de forma eficiente.
+Las APIs permiten que diferentes aplicaciones se comuniquen entre sí mediante interfaces estandarizadas y contratos bien definidos.
+El desarrollo ágil organiza el trabajo en sprints cortos con entregas frecuentes, retrospectivas y retroalimentación continua del cliente.
+Los patrones de diseño son soluciones reutilizables y probadas a problemas comunes en el desarrollo de software orientado a objetos.
+La integración continua automatiza pruebas y despliegues para detectar errores rápidamente en el ciclo de vida del desarrollo.
+Los microservicios dividen una aplicación en servicios pequeños e independientes que se comunican mediante APIs bien definidas.
+La programación funcional trata el cómputo como evaluación de funciones matemáticas evitando estados mutables y efectos secundarios.
+Los tests unitarios verifican el comportamiento de componentes individuales del código de forma aislada y automatizada.
+Docker y los contenedores permiten empaquetar aplicaciones con sus dependencias para garantizar consistencia entre entornos de desarrollo.
